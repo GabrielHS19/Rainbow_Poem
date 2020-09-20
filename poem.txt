@@ -7,7 +7,7 @@ Blue
 Green
 Indigo
 Recycle
-Recycle 2.00
+Recycle 2.000
 Unicorn
 Yellow
 Red
